@@ -14,9 +14,9 @@ var brandLogoName = function (shopId, brandId, file) {
 
 var client = new OSS({
   region: 'oss-cn-hangzhou',
-  accessKeyId: 'LTAI5HMc1gsIlmMg',
-  accessKeySecret: '2aixTpmFuBc2pYH8ws0lyhQeLYfokc',
-  bucket: 'gfresh-file-test'
+  accessKeyId: '从文档获取',
+  accessKeySecret: '从文档获取',
+  bucket: '从文档获取'
 });
 
 var applyTokenDo = function (func) {
